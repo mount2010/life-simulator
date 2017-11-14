@@ -1,9 +1,5 @@
 {
     "Globals" : {
-        "fs"      : "fs",
-        "Mustache": "mustache"
-    },
-    "Modules" : {
-        "colour"  : "./colour"
+        "Random"      : "random-js"
     }
 }

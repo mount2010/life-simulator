@@ -1,29 +1,15 @@
 {
-  "name": "jslife",
+  "name": "idk",
   "version": "1.0.0",
-  "description": "I wrote this in 8 hours with nothing but coffee and sleep deprivation.",
-  "main": "main.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/archboxdev/jslife.git"
-  },
-  "keywords": [
-    "life",
-    "javascript"
-  ],
-  "author": "bubbie with others",
-  "license": "AGPL-3.0",
-  "bugs": {
-    "url": "https://github.com/archboxdev/jslife/issues"
-  },
-  "homepage": "https://github.com/archboxdev/jslife#readme",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "mustache": "^2.3.0"
+    "random-js": "^1.0.8"
   }
 }
