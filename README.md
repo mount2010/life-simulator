@@ -1,12 +1,10 @@
-# life-simulator
-I wrote this in 8 hours with nothing but coffee and sleep deprevation.
+# Mount-JSLife
+Changed so much that it's a completely different thing from JSLife now
 
 # Requirements
 Node 8+ or any Node version supporting ES6.
 
-Mustache (npm install mustache)
-
-Use `node main.js` to start the game.
+Use `node index.js` to start the game.
 
 # Collaborators
 
@@ -16,8 +14,6 @@ Use `node main.js` to start the game.
 
 [ry00000](https://github.com/ry00000)
 
-# Other stuffs
+# Other stuff
 
-[Python version by ry00000](https://github.com/ArchboxDev/pylife)
-
-[Java version by lordjbs](https://github.com/ArchboxDev/jarlife)
+Forked from [JSLife](https://github.com/ArchboxDev/jslife)
